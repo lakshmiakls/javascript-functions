@@ -101,7 +101,7 @@ DOBwithname("real me");
    
    
    
-   // loop with while or for loops
+   // forming loop without while or for loops
      
     
      function counting(No) {
