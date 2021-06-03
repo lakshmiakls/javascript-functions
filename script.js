@@ -12,7 +12,7 @@ function DOBwithname() {
    let name = "jimmy"
     console.log(`25.09.2002 ${name}`);
  }
-DOBwithname(); 
+DOBwithname('sandhiya'); 
 
 
 function DOBwithname(name) {
